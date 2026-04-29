@@ -1,9 +1,9 @@
 # midspot-privacy
-<!DOCTYPE html>
+
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>MidSpot Privacy Policy</title>
+  MidSpot Privacy Policy
 </head>
 <body>
   <h1>Privacy Policy for MidSpot</h1>
