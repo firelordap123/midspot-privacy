@@ -49,7 +49,7 @@
 
   <h2>Contact</h2>
   <p>
-    If you have questions about this Privacy Policy, contact: your-email@example.com
+    If you have questions about this Privacy Policy, contact: a.parker1234@yahoo.com
   </p>
 </body>
 </html>
